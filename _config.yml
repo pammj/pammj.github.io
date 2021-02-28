@@ -14,3 +14,4 @@ defaults:
       layout: post
       toc: true
       toc_name: Sections
+theme: jekyll-theme-minimal
