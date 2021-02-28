@@ -18,10 +18,10 @@ items:
     subtitle: High level of analysis
     icon: fa-farm
     call_to_action_name: Check it out!
-    call_to_action_link: ./#Growers
+    call_to_action_link: ./#growers
 
   - title: Current Discord Activity
     subtitle: High level of activity
     icon: fa-user
     call_to_action_name: Check it out!
-    call_to_action_link: ./#Current-Activity
+    call_to_action_link: ./#current-activity
