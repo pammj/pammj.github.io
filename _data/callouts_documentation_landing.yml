@@ -1,0 +1,21 @@
+style: is-light
+height: is-medium
+items:
+
+  - title: Commands
+    subtitle: Perform actions with Ally
+    icon: fa-terminal
+    call_to_action_name: Check the reference
+    call_to_action_link: /docs/commands/
+
+  - title: Settings
+    subtitle: Configure your bot
+    icon: fa-cogs
+    call_to_action_name: Check the reference
+    call_to_action_link: /docs/settings/
+
+  - title: Self-Host
+    subtitle: Run your own instance
+    icon: fa-server
+    call_to_action_name: See how it's done
+    call_to_action_link: /docs/self-host/

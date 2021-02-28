@@ -1,0 +1,9 @@
+style: is-light
+height: is-medium
+items:
+
+  - title: Friendly
+    subtitle: High level of compassion
+    icon: fa-grin-beam
+    call_to_action_name: Check it out!
+    call_to_action_link: ./#friendly

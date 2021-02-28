@@ -1,7 +1,16 @@
-theme: jekyll-theme-merlot
-title: [PA MMJ Discord]
-description: [Pennsylvania's Warmest Community for PA Cannabis Patients]
+remote_theme: chrisrhymes/bulma-clean-theme
+title: PA MMJ Discord
+permalink: /blog/:categories/:year/:month/:day/:title/
+footer_menu: footer
+paginate: 5
+paginate_path: "/blog/page:num"
+
+exclude: [ ".vscode", ".gitignore", "LICENSE", "README.md", "Gemfile", "Gemfile.lock"]
 
 defaults:
   - scope:
       path: "_posts"
+    values: 
+      layout: post
+      toc: true
+      toc_name: Sections
