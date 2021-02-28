@@ -7,3 +7,9 @@ items:
     icon: fa-grin-beam
     call_to_action_name: Check it out!
     call_to_action_link: ./#friendly
+
+  - title: Flowery
+    subtitle: High level of cannabinoids
+    icon: fa-cannabis
+    call_to_action_name: Check it out!
+    call_to_action_link: ./#flowery
