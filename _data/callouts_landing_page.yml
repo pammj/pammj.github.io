@@ -16,7 +16,7 @@ items:
 
   - title: Grower Discussion
     subtitle: High level of analysis
-    icon: fa-scarecrow
+    icon: fa-farm
     call_to_action_name: Check it out!
     call_to_action_link: ./#Growers
 
