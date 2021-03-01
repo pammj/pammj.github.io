@@ -100,10 +100,10 @@ permalink: /strains/
         </table>
     </div>
     <script type="text/javascript">
-        // $("#straintbody").load("/strainbody");
+        // $("#straintbody").load("/strainbody.html");
         $(document).ready(function () {
 
-            $.get("strainbody.html", function (data) {
+            $.get("/strainbody", function (data) {
                 $('#straintbody').html(data);
                 setTimeout(function(){
                     
