@@ -102,8 +102,7 @@ permalink: /strains/
     <script type="text/javascript">
         // $("#straintbody").load("/strainbody.html");
         $(document).ready(function () {
-setTimeout(function(){
-    
+
             $.get("/strainbody.txt", function (data) {
                 $('#straintbody').html(data);
                 setTimeout(function(){
@@ -124,8 +123,8 @@ setTimeout(function(){
                 });
                 }, 1200);
 
-            });
-}, 600);
+            }
+            );
 
         });
 
