@@ -103,7 +103,7 @@ permalink: /strains/
         // $("#straintbody").load("/strainbody.html");
         $(document).ready(function () {
 
-            $.get("/strainbody", function (data) {
+            $.get("/strainbody.txt", function (data) {
                 $('#straintbody').html(data);
                 setTimeout(function(){
                     
