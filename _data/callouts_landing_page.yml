@@ -11,17 +11,23 @@ items:
   - title: Flowery
     subtitle: High level of cannabinoids
     icon: fa-cannabis
-    call_to_action_name: Check it out!
+    call_to_action_name: Bloom it!
     call_to_action_link: ./#flowery
 
   - title: Grower Discussion
     subtitle: High level of analysis
     icon: fa-seedling
-    call_to_action_name: Check it out!
+    call_to_action_name: Grow it!
     call_to_action_link: ./#growers
 
   - title: Current Discord Activity
     subtitle: High level of activity
     icon: fa-user
     call_to_action_name: Check it out!
+    call_to_action_link: ./#current-activity
+
+    - title: Giveaways!
+    subtitle: High level of activity
+    icon: fa-present
+    call_to_action_name: Unwrap it!
     call_to_action_link: ./#current-activity
