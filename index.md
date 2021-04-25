@@ -42,23 +42,26 @@ From flowers to friends, warmth is abound
 
  - Agri-Kind
  - Calypso
- - Cresco
+ - Cresco (Remedi)
+ - Curaleaf (Grassroots) (Select)
  - FarmRX
- - Franklin Labs
+ - Franklin Labs (Owned by Harvest Health)
  - Gleaf
- - Grassroots
- - Ilera/Kind-Tree
+ - GTI (Rythm) (&Shine) (Dr. Solomon's)
+ - Hanging Gardens
+ - Ilera (Kind-Tree)
  - INSA
  - Liberty
  - Maitri
- - Moxie
  - Muv
- - Penn Health
+ - Organic Remedies
+ - Parea
+ - Penn Health Group
  - Prime Wellness
- - Rhythm/GTI
+ - PurePenn (Moxie)
  - Standard Farms
- - Terrapin
- - Vireo/1937/The Lab
+ - Terrapin (Double Bear)
+ - Vireo (1937) (The Lab) (The Bank) (Nira+)
  - Whole Plants
 
 ---
