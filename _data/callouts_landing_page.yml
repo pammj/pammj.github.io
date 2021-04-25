@@ -26,8 +26,8 @@ items:
     call_to_action_name: Check it out!
     call_to_action_link: ./#current-activity
 
-    - title: Giveaways!
-    subtitle: High level of activity
+  - title: Giveaways!
+    subtitle: Gear and clothing!
     icon: fa-present
     call_to_action_name: Unwrap it!
     call_to_action_link: ./#current-activity
