@@ -18,8 +18,8 @@ permalink: /
 - Strain Talk
 - Game Nights
 - Giveaways
-- Certified Caregivers 
-- Patient-specific product advice
+- Patient Certifications
+- Patient-Specific Product Advice
 
 ## Friendly
 
