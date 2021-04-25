@@ -1,5 +1,7 @@
 - name: Blog
   link: /blog/
+- name: Dispensary Map
+  link: /dispomap/
 - name: Strains
   link: /strains/
 - name: Discord
