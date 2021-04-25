@@ -17,6 +17,7 @@ permalink: /
 - Regional Channels
 - Strain Talk
 - Game Nights
+- Giveaways
 
 ## Friendly
 
