@@ -10,6 +10,14 @@ permalink: /
 
 ---
 
+## Server Features
+
+- Roles/Colors
+- Deal Announcements
+- Regional Channels
+- Strain Talk
+- Game Nights
+
 ## Friendly
 
 From flowers to friends, warmth is abound

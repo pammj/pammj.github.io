@@ -28,6 +28,6 @@ items:
 
   - title: Giveaways!
     subtitle: Gear and clothing!
-    icon: fa-present
+    icon: fa-gift
     call_to_action_name: Unwrap it!
     call_to_action_link: ./#current-activity
